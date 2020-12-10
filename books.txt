@@ -1,0 +1,4 @@
+book_of_c	j.k.rowling	9504019093	2020	8	10
+book_of_b	E.Poe	999999999	2020	7	20
+book_of_d	r.stevenson	0	0	0	0
+Blah_blah	blah.writer	0	0	0	0
